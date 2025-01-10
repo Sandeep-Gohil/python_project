@@ -32,7 +32,8 @@ Matplotlib: To create clear and simple visualizations.
 Top Companies: Robert Half, Insight Global, and Dice stand out as leading employers, each offering a significant number of job openings.
 
 
-![Top companies](./Count_of_companies_for_Data_analyst_jobs.png)
+![Top companies](./images/Count_of_companies_for_Data_analyst_jobs.png)
+
 
 
 Diverse Hiring: Companies across various industries are actively seeking data analysts, reflecting the growing demand for data-driven decision-making in multiple sectors.
@@ -40,7 +41,7 @@ Diverse Hiring: Companies across various industries are actively seeking data an
 2. Job Locations for Data Analysts in the US
 Remote Opportunities Dominate: "Anywhere" positions highlight the surge in remote data analyst roles, offering flexibility to professionals nationwide.
 
-![Top Locations](./Job_counts_on_different_locations.png)
+![Top Locations](./images/Job_counts_on_different_locations.png)
 
 Key Cities: Major metropolitan areas like New York, Atlanta, Chicago, and Austin serve as hotspots for data analyst positions, showcasing opportunities in well-established business hubs.
 
@@ -48,7 +49,7 @@ Key Cities: Major metropolitan areas like New York, Atlanta, Chicago, and Austin
 Data Analyst Skills: SQL (51%) and Excel (41%) are the most frequently requested skills, followed by Tableau (28%), Python (27%), and SAS (19%).
 
 
-![Skill Demand](./Skill_demand_all_data_role.png)
+![Skill Demand](./images/Skill_demand_all_data_role.png)
 
 ## Comparison with Other Roles:
 Data Engineers prioritize SQL (68%) and Python (65%), along with cloud technologies like AWS (43%), Azure (32%), and Spark (32%).Data Scientists focus heavily on Python (72%), SQL (51%), and statistical programming languages like R (44%).
@@ -63,7 +64,7 @@ As skillsets overlap across roles, professionals with versatile knowledge in SQL
 
 # Trending Top Skills for Data Analysts in the US (2023)
 
-![Trending Skills](./Trending%20Skills%20for%20Data%20Analyst.png)
+![Trending Skills](./images/Trending%20Skills%20for%20Data%20Analyst.png)
 
 ***This graph showcases the demand for key skills in data analyst job postings throughout 2023, highlighting the trends in skill requirements over time***
 
@@ -96,7 +97,7 @@ Specialized tools like Hugging Face and technologies such as Couchbase, Ansible,
 These skills represent advanced or specialized domains, including machine learning frameworks, blockchain technology, and DevOps tools.
 
 
-![Highest Paid](Highest_paying_and_most_in_demand_skills.png)
+![Highest Paid](images/Highest_paying_and_most_in_demand_skills.png)
 
 ## Most In-Demand Skills:
 
@@ -118,7 +119,7 @@ There’s a clear divide between high-paying niche skills and more universally d
 **Salary Range:** Salaries range widely, with senior roles reaching up to $200,000 for top earners.
 
 
-![Salary Distribution](./Salary_distribution_for_different_data_roles.png)
+![Salary Distribution](./images/Salary_distribution_for_different_data_roles.png)
 
 
 2. **Data Scientist and Senior Data Scientist:**
@@ -140,7 +141,7 @@ Outliers across all roles suggest opportunities for exceptionally high earnings 
 
 # Optimal Skills for Data Analysts in the US
 
-![Optimal Skills](./Optimal%20Skills%20to%20learn.png)
+![Optimal Skills](./images/Optimal%20Skills%20to%20learn.png)
 
 This graph highlights the most optimal skills for data analysts based on their demand (percentage of job postings) and their corresponding median yearly salary. It provides insights into which skills offer the best balance of demand and compensation:
 
